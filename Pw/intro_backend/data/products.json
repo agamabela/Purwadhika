@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "namaProduct":"Sepatu Adidas",
+        "harga":150000
+    },
+    {
+        "id":2,
+        "namaProduct":"Mentai Enak",
+        "harga":200000
+    },
+    {
+        "id":3,
+        "namaProduct":"Yakiniku Japan",
+        "harga":250000
+    }
+
+]
